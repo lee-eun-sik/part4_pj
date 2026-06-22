@@ -18,3 +18,6 @@ git config --global user.name "lee-eun-sik"
 git config --list
 :wq하면 목록에서 빠져나옴
 $ git commit -m "첫 커밋"
+cd part4_pj
+git add .
+git commit -m "서브모듈 내부 수정"
